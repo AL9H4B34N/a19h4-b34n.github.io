@@ -274,6 +274,8 @@ i.fa{
     .about{
         max-width: 80%;
     }
+    .para{
+	    fony-size:15px;
     .right{
         right: 0px;
     }    
